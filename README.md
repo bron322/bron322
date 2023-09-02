@@ -1,5 +1,9 @@
 <div align="center"> <img src="https://raw.githubusercontent.com/bron322/bron322/main/github-header-image.png"> </div>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lebron+Lim!;" />
+</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on software development<br>👯 I’m looking to collaborate on software engineer related field<br>🌱 I’m currently a Data Science and AI student in NTU, Singapore.
 
