@@ -1,4 +1,5 @@
-<div align="center"> <img src="https://raw.githubusercontent.com/bron322/bron322/blob/main/github-header-image.png"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/bron322/bron322/main/github-header-image.png"> </div>
+
 # 💫 About Me:
 🔭 I’m currently working on software development<br>👯 I’m looking to collaborate on software engineer related field<br>🌱 I’m currently a Data Science and AI student in NTU, Singapore.
 
