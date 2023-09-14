@@ -5,7 +5,7 @@
 </h1>
 
 # 💫 About Me:
-🔭 I’m currently working on software development<br>👯 I’m looking to collaborate on software engineer related field<br>🌱 I’m currently a Data Science and AI student in NTU, Singaporee.
+🔭 I’m currently working on software development<br>👯 I’m looking to collaborate on software engineer related field<br>🌱 I’m currently a Data Science and AI student in NTU, Singapore.
 
 
 ## 🌐 Socials:
