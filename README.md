@@ -4,6 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lebron+Lim!;" />
 </h1>
 
+[![](https://visitcount.itsvg.in/api?id=yiwern5&icon=0&color=10)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently working on software development<br>👯 I’m looking to collaborate on software engineer related field<br>🌱 I’m currently a Data Science and AI student in NTU, Singapore.
 
