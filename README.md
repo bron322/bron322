@@ -24,10 +24,11 @@
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
 | 1 | [VI Fitness](https://github.com/bron322/SC2006VIFitness) |
 | 2 | [My Portfolio](https://github.com/bron322/bron-portfolio) |
-| 3 | [Reel Raves](https://github.com/bron322/AngularMovieReview) |
-| 4 | [BearBrickFusion](https://github.com/bron322/BearBrickFusion) |
-| 5 | [FYP System](https://github.com/bron322/SC2002FYPSystem) |
-| 6 | [NBA HoF Prediction](https://github.com/bron322/NBAPlayersHoFPrediction) |
+| 3 | [Job Ninja](https://github.com/bron322/JobNinja) |
+| 4 | [Reel Raves](https://github.com/bron322/AngularMovieReview) |
+| 5 | [BearBrickFusion](https://github.com/bron322/BearBrickFusion) |
+| 6 | [FYP System](https://github.com/bron322/SC2002FYPSystem) |
+| 7 | [NBA HoF Prediction](https://github.com/bron322/NBAPlayersHoFPrediction) |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bron322&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
