@@ -35,6 +35,3 @@
 
 <img align='left' width='45%' alt='readme' src="https://github-readme-streak-stats.herokuapp.com/?user=bron322&theme=radical&hide_border=false">
 <img align='right' width='45%' alt='readme' src="https://github-readme-stats.vercel.app/api?username=bron322&theme=radical&hide_border=false&include_all_commits=false&count_private=true">
-
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
