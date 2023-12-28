@@ -32,6 +32,11 @@
 | 8 | [NBA HoF Prediction](https://github.com/bron322/NBAPlayersHoFPrediction) |
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bron322&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
-<img align='left' width='47%' alt='readme' src="https://github-readme-streak-stats.herokuapp.com/?user=bron322&theme=radical&hide_border=false">
-<img align='right' width='47%' alt='readme' src="https://github-readme-stats.vercel.app/api?username=bron322&theme=radical&hide_border=false&include_all_commits=false&count_private=true">
+![](https://github-readme-streak-stats.herokuapp.com/?user=bron322&theme=radical&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bron322&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
