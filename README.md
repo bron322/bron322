@@ -20,52 +20,16 @@
 
 ## Current Repositories
 
-<div style="display: flex;">
-    <div style="flex: 1;">
-        <h2>Current Repositories</h2>
-        <table>
-            <thead>
-                <tr>
-                    <th>#</th>
-                    <th>Repositories</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>1</td>
-                    <td><a href="https://github.com/bron322/SC2006VIFitness">VI Fitness</a></td>
-                </tr>
-                <tr>
-                    <td>2</td>
-                    <td><a href="https://github.com/bron322/bron-portfolio">My Portfolio</a></td>
-                </tr>
-                <!-- Add other rows as needed -->
-            </tbody>
-        </table>
-    </div>
-    
-    <div style="flex: 1;">
-        <h2>Other Table</h2>
-        <table>
-            <thead>
-                <tr>
-                    <th>#</th>
-                    <th>Column 1</th>
-                    <th>Column 2</th>
-                    <!-- Add more headers as needed -->
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>1</td>
-                    <td>Data 1</td>
-                    <td>Data 2</td>
-                    <!-- Add more data rows as needed -->
-                </tr>
-            </tbody>
-        </table>
-    </div>
-</div>
+| # |                                                              Repositories                                                              |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
+| 1 | [VI Fitness](https://github.com/bron322/SC2006VIFitness) |
+| 2 | [My Portfolio](https://github.com/bron322/bron-portfolio) |
+| 3 | [HungerDash](https://github.com/bron322/HungerDash) |
+| 4 | [Job Ninja](https://github.com/bron322/JobNinja) |
+| 5 | [Reel Raves](https://github.com/bron322/AngularMovieReview) |
+| 6 | [BearBrickFusion](https://github.com/bron322/BearBrickFusion) |
+| 7 | [FYP System](https://github.com/bron322/SC2002FYPSystem) |
+| 8 | [NBA HoF Prediction](https://github.com/bron322/NBAPlayersHoFPrediction) |
 
 
 # 📊 GitHub Stats:
