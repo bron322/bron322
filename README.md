@@ -32,7 +32,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bron322&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=bron322&bg_color=30,4caf50,689f38&title_color=fff&text_color=fff&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bron322&theme=radical&hide_border=false)<br/>
 
