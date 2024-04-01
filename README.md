@@ -30,13 +30,14 @@
 | 6 | [FYP System](https://github.com/bron322/SC2002FYPSystem) |
 | 7 | [NBA HoF Prediction](https://github.com/bron322/NBAPlayersHoFPrediction) |
 
+# Current Github Streak:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=bron322&theme=transparent&hide_border=false)<br/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bron322&bg_color=30,0ff1ce,904e95&title_color=000&text_color=000&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bron322&bg_color=30,0ff1ce,904e95&title_color=000&text_color=000&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=bron322&theme=transparent&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
