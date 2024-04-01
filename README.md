@@ -32,7 +32,7 @@
 
 # Current Github Streak:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=bron322&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bron322&theme=travelers-theme&hide_border=false)<br/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bron322&bg_color=30,0ff1ce,904e95&title_color=000&text_color=000&hide_border=false&include_all_commits=false&count_private=true)<br/>
