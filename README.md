@@ -37,6 +37,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bron322&bg_color=30,0ff1ce,904e95&title_color=000&text_color=000&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
+![bron322 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=bron322)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bron322&bg_color=30,0ff1ce,904e95&title_color=000&text_color=000&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
