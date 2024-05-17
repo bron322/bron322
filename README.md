@@ -41,3 +41,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
+
+<script src="https://gist.github.com/bron322/528cc4f69e576738ebacbf803d86cb39.js"></script>
