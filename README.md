@@ -34,8 +34,10 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bron322&theme=travelers-theme&hide_border=false)<br/>
 
+# 📊 GitHub Dashboard:
+<img src="https://stats.dooboo.io/api/github-stats-advanced?login=bron322" width="600" /></a>
+
 # 📊 GitHub Stats:
-<img src="https://stats.dooboo.io/api/github-stats-advanced?login=hyochan" width="600" /></a>
 ![](https://github-readme-stats.vercel.app/api?username=bron322&bg_color=30,0ff1ce,904e95&title_color=000&text_color=000&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bron322&bg_color=30,0ff1ce,904e95&title_color=000&text_color=000&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
