@@ -27,8 +27,9 @@
 | 3 | [HungerDash](https://github.com/bron322/HungerDash) |
 | 4 | [Job Ninja](https://github.com/bron322/JobNinja) |
 | 5 | [Image Classifier](https://github.com/bron322/ImageClassifier) |
-| 6 | [FYP System](https://github.com/bron322/SC2002FYPSystem) |
-| 7 | [NBA HoF Prediction](https://github.com/bron322/NBAPlayersHoFPrediction) |
+| 6 | [CSGOProPlayerAnalysis](https://github.com/bron322/CSGOProPlayersAnalysis) |
+| 7 | [FYP System](https://github.com/bron322/SC2002FYPSystem) |
+| 8 | [NBA HoF Prediction](https://github.com/bron322/NBAPlayersHoFPrediction) |
 
 # Current Github Streak:
 
