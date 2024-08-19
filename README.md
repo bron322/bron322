@@ -24,12 +24,13 @@
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
 | 1 | [VI Fitness](https://github.com/bron322/SC2006VIFitness) |
 | 2 | [My Portfolio](https://github.com/bron322/bron-portfolio) |
-| 3 | [HungerDash](https://github.com/bron322/HungerDash) |
-| 4 | [Job Ninja](https://github.com/bron322/JobNinja) |
-| 5 | [Image Classifier](https://github.com/bron322/ImageClassifier) |
-| 6 | [CSGOProPlayerAnalysis](https://github.com/bron322/CSGOProPlayersAnalysis) |
-| 7 | [FYP System](https://github.com/bron322/SC2002FYPSystem) |
-| 8 | [NBA HoF Prediction](https://github.com/bron322/NBAPlayersHoFPrediction) |
+| 3 | [EV Population PowerBI](https://github.com/bron322/EVPopulationPowerBI) |
+| 4 | [HungerDash](https://github.com/bron322/HungerDash) |
+| 5 | [Job Ninja](https://github.com/bron322/JobNinja) |
+| 6 | [Image Classifier](https://github.com/bron322/ImageClassifier) |
+| 7 | [CSGOProPlayerAnalysis](https://github.com/bron322/CSGOProPlayersAnalysis) |
+| 8 | [FYP System](https://github.com/bron322/SC2002FYPSystem) |
+| 9 | [NBA HoF Prediction](https://github.com/bron322/NBAPlayersHoFPrediction) |
 
 # Current Github Streak:
 
