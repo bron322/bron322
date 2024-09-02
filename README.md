@@ -27,10 +27,11 @@
 | 3 | [EV Population PowerBI](https://github.com/bron322/EVPopulationPowerBI) |
 | 4 | [HungerDash](https://github.com/bron322/HungerDash) |
 | 5 | [Job Ninja](https://github.com/bron322/JobNinja) |
-| 6 | [Image Classifier](https://github.com/bron322/ImageClassifier) |
-| 7 | [CSGOProPlayerAnalysis](https://github.com/bron322/CSGOProPlayersAnalysis) |
-| 8 | [FYP System](https://github.com/bron322/SC2002FYPSystem) |
-| 9 | [NBA HoF Prediction](https://github.com/bron322/NBAPlayersHoFPrediction) |
+| 6 | [Advanced Car Parking Management System](https://github.com/bron322/CarParkSpaceDetection) |
+| 7 | [Image Classifier](https://github.com/bron322/ImageClassifier) |
+| 8 | [CSGOProPlayerAnalysis](https://github.com/bron322/CSGOProPlayersAnalysis) |
+| 9 | [FYP System](https://github.com/bron322/SC2002FYPSystem) |
+| 10 | [NBA HoF Prediction](https://github.com/bron322/NBAPlayersHoFPrediction) |
 
 # Current Github Streak:
 
