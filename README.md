@@ -20,6 +20,11 @@
 
 ## Current Repositories
 
+| # |                                                             Final Year Project                                                           |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
+| 1 | [Yelp Recommender System](https://github.com/bron322/YelpMobilityRecommenderFYPdemo) |
+
+
 | # |                                                              Data Science & ML Repositories                                                              |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
 | 1 | [EV Population PowerBI](https://github.com/bron322/EVPopulationPowerBI) |
