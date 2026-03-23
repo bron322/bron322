@@ -22,7 +22,8 @@
 
 | # |                                                             Final Year Project                                                           |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
-| 1 | [Yelp Recommender System](https://github.com/bron322/YelpMobilityRecommenderFYPdemo) |
+| 1 | [Yelp Recommender System React Demo](https://github.com/bron322/YelpMobilityRecommenderFYPdemo) |
+| 1 | [Yelp Recommender System Jupyter Notebook](https://github.com/bron322/YelpFYP) |
 
 
 | # |                                                              Data Science & ML Repositories                                                              |
