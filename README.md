@@ -22,9 +22,13 @@
 
 | # |                                                             Final Year Project                                                           |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
+| 1 | [Global Distributor AI Agent](https://github.com/bron322/GlobalDistributorAgent) |
+| 1 | [Cart Rescue AI Agent](https://github.com/bron322/CartRescueAIAgent) |
+
+| # |                                                             AI Agents Projects                                                          |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
 | 1 | [Yelp Recommender System React Demo](https://github.com/bron322/YelpMobilityRecommenderFYPdemo) |
 | 1 | [Yelp Recommender System Jupyter Notebook](https://github.com/bron322/YelpFYP) |
-
 
 | # |                                                              Data Science & ML Repositories                                                              |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
