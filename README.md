@@ -9,7 +9,7 @@
 ## My portfolio website can be found [here](https://lebronlim-portfolio.vercel.app/)
 
 # 💫 About Me:
-🔭 I’m currently working on Data Science projects!<br>👯 I’m looking to collaborate on software or data related field<br>🌱 I’m currently a Data Science and AI student in NTU, Singapore.
+🔭 I’m currently learning Golang(Concurrency vs Parallism), Kafka, Redis<br>👯 I’m looking to collaborate on software or data related field<br>🌱 I’m currently a Data Science and AI student in NTU, Singapore.
 
 
 ## 🌐 Socials:
