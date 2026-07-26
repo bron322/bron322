@@ -20,7 +20,7 @@
 
 ## Current Repositories
 
-| # |                                                             Final Year Project                                                           |
+| # |                                                             Final Year Project (Grade A)                                                          |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
 | 1 | [Yelp Recommender System React Demo](https://github.com/bron322/YelpMobilityRecommenderFYPdemo) |
 | 2 | [Yelp Recommender System Jupyter Notebook](https://github.com/bron322/YelpFYP) |
